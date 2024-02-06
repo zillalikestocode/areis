@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "24667641321",
+    "project_id": "areis-f6ce6",
+    "storage_bucket": "areis-f6ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24667641321:android:fddd5ca518ddf26fad6778",
+        "android_client_info": {
+          "package_name": "com.areis.areis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24667641321-3b525n6d4ho2ojtt68m5shjse2gvlf5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bJ96u9CyEkUiFXVK_N1Q-zpcJyDcHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24667641321-3b525n6d4ho2ojtt68m5shjse2gvlf5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24667641321-nj8lrp7d81v9boaqcpljkmech7nmdcpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24667641321:android:85a3ccf6c7dc8ebead6778",
+        "android_client_info": {
+          "package_name": "com.example.task_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24667641321-g7e842rlssogm7mcqtnrnbr79bt2d8aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_tracker",
+            "certificate_hash": "4af4b43ac2da649de32cc9a980ce56896c07b083"
+          }
+        },
+        {
+          "client_id": "24667641321-3b525n6d4ho2ojtt68m5shjse2gvlf5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bJ96u9CyEkUiFXVK_N1Q-zpcJyDcHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24667641321-3b525n6d4ho2ojtt68m5shjse2gvlf5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24667641321-nj8lrp7d81v9boaqcpljkmech7nmdcpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

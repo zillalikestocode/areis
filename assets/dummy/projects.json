@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "Web Design",
+    "description": "Structural Design phases of the landing page for our web based SAAS platform. Wireframing, User Testing, Research etc. will be considered while this project’s development stages progress.",
+    "colorTag": "#FF4D00",
+    "progress": 0.6,
+    "members": [
+      { "name": "Emmanuel Ngoka", "role": "admin" },
+      { "name": "Divine Sam", "role": "admin" },
+      { "name": "Chisom Berthrand", "role": "member" },
+      { "name": "Chisom Berthrand", "role": "member" },
+      { "name": "Chisom Berthrand", "role": "member" },
+      { "name": "Chisom Berthrand", "role": "member" }
+    ],
+    "tasks": [
+      {
+        "name": "Wireframe Design",
+        "assignedTo": ["Divine Sam"],
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "College Report",
+    "description": "Structural Design phases of the landing page for our web based SAAS platform. Wireframing, User Testing, Research etc. will be considered while this project’s development stages progress.",
+    "colorTag": "#0085FF",
+    "progress": 0.8,
+    "members": [
+      { "name": "Emmanuel Ngoka", "role": "admin" },
+      { "name": "Divine Sam", "role": "admin" },
+      { "name": "Chisom Berthrand", "role": "member" },
+      { "name": "Chisom Berthrand", "role": "member" },
+      { "name": "Chisom Berthrand", "role": "member" }
+    ],
+    "tasks": [
+      {
+        "name": "Wireframe Design",
+        "assignedTo": ["Divine Sam"],
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Operation Power",
+    "description": "Structural Design phases of the landing page for our web based SAAS platform. Wireframing, User Testing, Research etc. will be considered while this project’s development stages progress.",
+    "colorTag": "#F9C22E",
+    "progress": 0.4,
+    "members": [
+      { "name": "Emmanuel Ngoka", "role": "admin" },
+      { "name": "Divine Sam", "role": "admin" },
+      { "name": "Chisom Berthrand", "role": "member" }
+    ],
+    "tasks": [
+      {
+        "name": "Wireframe Design",
+        "assignedTo": ["Divine Sam"],
+        "status": "pending"
+      }
+    ]
+  }
+]
